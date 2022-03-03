@@ -1,0 +1,23 @@
+img{
+    width: 200px;
+  
+}
+#i1{
+    float: left;
+
+}
+
+div{
+    margin-top: 10%;
+    border: 1px solid black;
+    overflow: auto;
+    background-color: aquamarine;
+}
+ul{
+    list-style: none;
+}
+li{
+    padding: 10px;
+    float: right;
+    margin: 5px;
+}
