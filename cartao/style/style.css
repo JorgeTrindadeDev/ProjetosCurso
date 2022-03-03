@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+#visitcard{
+    margin: auto;
+    margin-top: 10%;
+    font-family: poppinsmedium, Arial;
+    width: 400px;
+    height: 200px;
+    /* border: solid 20px black; */
+    padding: 1px 20px;
+    background: url("../media/img/backgorund.png") no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+ul{
+    font-family: poppinslight;
+    margin-top: 25px;
+    margin-left: 10%;
+    
+}
+#li1{
+    list-style-image: url(../media/img/Insta.png);
+}
+#li2{
+    list-style-image: url(../media/img/Twitter.png);
+}
+#li3{
+    list-style-image: url(../media/img/Youtube.png);
+}
