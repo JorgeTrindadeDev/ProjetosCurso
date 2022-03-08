@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+}
+h2{
+    text-align: center;
+}
+form{
+    padding-top: 5%;
+    padding-left: 30%;
+    width: 50%;
+    float: left;
+    margin-left: 10%;    
+}
+#busca{
+    border-radius: 25px;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    border: solid 2px red;
+    
+}
+#buttom{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+    border-radius: 15px;
+    background-color: red;
+    color: white;
+}
